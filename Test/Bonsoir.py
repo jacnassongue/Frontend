@@ -1,2 +1,2 @@
-Heure = "Il est 11H"
-print(Heure)
+salutation = "Bonsoir, comment vous allez?"
+print(salutation)
